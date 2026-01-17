@@ -1,0 +1,15 @@
+/Users/matthewgibson/Projects/CsharpProjects/Moothids/Moothids/bin/Debug/net9.0/Moothids
+/Users/matthewgibson/Projects/CsharpProjects/Moothids/Moothids/bin/Debug/net9.0/Moothids.deps.json
+/Users/matthewgibson/Projects/CsharpProjects/Moothids/Moothids/bin/Debug/net9.0/Moothids.runtimeconfig.json
+/Users/matthewgibson/Projects/CsharpProjects/Moothids/Moothids/bin/Debug/net9.0/Moothids.dll
+/Users/matthewgibson/Projects/CsharpProjects/Moothids/Moothids/bin/Debug/net9.0/Moothids.pdb
+/Users/matthewgibson/Projects/CsharpProjects/Moothids/Moothids/obj/Debug/net9.0/Moothids.GeneratedMSBuildEditorConfig.editorconfig
+/Users/matthewgibson/Projects/CsharpProjects/Moothids/Moothids/obj/Debug/net9.0/Moothids.AssemblyInfoInputs.cache
+/Users/matthewgibson/Projects/CsharpProjects/Moothids/Moothids/obj/Debug/net9.0/Moothids.AssemblyInfo.cs
+/Users/matthewgibson/Projects/CsharpProjects/Moothids/Moothids/obj/Debug/net9.0/Moothids.csproj.CoreCompileInputs.cache
+/Users/matthewgibson/Projects/CsharpProjects/Moothids/Moothids/obj/Debug/net9.0/Moothids.sourcelink.json
+/Users/matthewgibson/Projects/CsharpProjects/Moothids/Moothids/obj/Debug/net9.0/Moothids.dll
+/Users/matthewgibson/Projects/CsharpProjects/Moothids/Moothids/obj/Debug/net9.0/refint/Moothids.dll
+/Users/matthewgibson/Projects/CsharpProjects/Moothids/Moothids/obj/Debug/net9.0/Moothids.pdb
+/Users/matthewgibson/Projects/CsharpProjects/Moothids/Moothids/obj/Debug/net9.0/Moothids.genruntimeconfig.cache
+/Users/matthewgibson/Projects/CsharpProjects/Moothids/Moothids/obj/Debug/net9.0/ref/Moothids.dll
